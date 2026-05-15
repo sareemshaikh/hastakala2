@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Artisan warm palette -->
+    <!-- Primary: deep terracotta -->
+    <color name="artisan_primary">#C0522A</color>
+    <color name="artisan_primary_dark">#8B3A1D</color>
+    <color name="artisan_primary_light">#E8845C</color>
+    <color name="artisan_on_primary">#FFFFFF</color>
+
+    <!-- Secondary: warm amber/gold -->
+    <color name="artisan_secondary">#D4A017</color>
+    <color name="artisan_secondary_dark">#9E7610</color>
+    <color name="artisan_secondary_light">#F0C84A</color>
+    <color name="artisan_on_secondary">#1C1B1F</color>
+
+    <!-- Surface: warm cream -->
+    <color name="artisan_surface">#FFF8F3</color>
+    <color name="artisan_surface_variant">#F5EDE4</color>
+    <color name="artisan_on_surface">#1C1B1F</color>
+    <color name="artisan_on_surface_variant">#6B5E52</color>
+
+    <!-- Background -->
+    <color name="artisan_background">#FFF8F3</color>
+
+    <!-- Error -->
+    <color name="artisan_error">#B3261E</color>
+    <color name="artisan_on_error">#FFFFFF</color>
+
+    <!-- Outline -->
+    <color name="artisan_outline">#9C8678</color>
+    <color name="artisan_outline_variant">#D4C4B8</color>
+
+    <!-- KPI card backgrounds -->
+    <color name="kpi_purple_bg">#F3E8FF</color>
+    <color name="kpi_purple_text">#6B21A8</color>
+    <color name="kpi_green_bg">#DCFCE7</color>
+    <color name="kpi_green_text">#166534</color>
+    <color name="kpi_blue_bg">#DBEAFE</color>
+    <color name="kpi_blue_text">#1E40AF</color>
+    <color name="kpi_amber_bg">#FEF3C7</color>
+    <color name="kpi_amber_text">#92400E</color>
+
+    <!-- Shimmer base -->
+    <color name="shimmer_base">#E8DDD5</color>
+    <color name="shimmer_highlight">#F5EDE4</color>
+
+    <!-- Legacy (kept for compatibility) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

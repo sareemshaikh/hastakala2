@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hasta-Kala Shop</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_quick_bill">Quick Bill</string>
+    <string name="nav_inventory">Inventory</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_income_log">Income Log</string>
+    
+    <!-- Google Sign-In Configuration -->
+    <string name="default_web_client_id" translatable="false">408871437849-vsm61gtlqf1kkqrstt9rqln4f20vb18g.apps.googleusercontent.com</string>
+</resources>

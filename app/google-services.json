@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408871437849",
+    "project_id": "acchasproject",
+    "storage_bucket": "acchasproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408871437849:android:f1c21b20139fc4144b4c88",
+        "android_client_info": {
+          "package_name": "com.hastakala.testshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408871437849-jea6drmef57siptek151fo8blqbrkgrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hastakala.testshop",
+            "certificate_hash": "6dae46b6d084dfa21d3072cb0a8287bc6441f13f"
+          }
+        },
+        {
+          "client_id": "408871437849-vsm61gtlqf1kkqrstt9rqln4f20vb18g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBOIuDfIO_4tIFjjjG7sWuaelz_HyA8xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408871437849-vsm61gtlqf1kkqrstt9rqln4f20vb18g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
